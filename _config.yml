@@ -1,0 +1,28 @@
+name: wellnessfarmer
+favicon: null
+layout_spectrum: 0.11047227261587977
+typography_spectrum: 0.7909174980595708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11629524012096226
+  lightness: 0.8763846359215677
+  saturation: 0.04243070282973349
+  rhythmicContrast: 0.06349988817237318
+purpose: []
